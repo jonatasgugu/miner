@@ -1,0 +1,1 @@
+cpuminer-gw64-core2.exe -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 --userpass jonatas_gugu@hotmail.com:x 
